@@ -1,0 +1,7 @@
+{
+  "name": "custom-schema",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
